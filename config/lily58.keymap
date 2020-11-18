@@ -40,8 +40,8 @@
 //                     |      |      |      |        |  |       |      |       |       |
 			bindings = <
 &bt BT_CLR &bt BT_SEL 0      &bt BT_SEL 1       &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4                 &trans    &trans    &trans    &trans    &trans    &trans
-&kp F1     &kp K_PP            &kp K_PREV             &kp K_NEXT       &kp F5       &kp F6                       &kp F7    &kp F8    &kp F9    &kp LBKT   &kp RBKT   &kp F12
-&kp GRAV   &kp K_VOL_DN          &kp K_VOL_UP           &kp K_MUTE     &kp CURU     &kp PRCT                     &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &kp RPRN  &kp TILD
+&kp F1     &kp C_PP            &kp C_PREV             &kp C_NEXT       &kp F5       &kp F6                       &kp F7    &kp F8    &kp F9    &kp LBKT   &kp RBKT   &kp F12
+&kp GRAV   &kp C_VOL_DN          &kp C_VOL_UP           &kp C_MUTE     &kp CURU     &kp PRCT                     &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &kp RPRN  &kp TILD
 &trans  &ext_power EP_ON &ext_power EP_OFF &ext_power EP_TOG &trans       &trans    &trans   &trans    &trans    &kp MINUS &kp KPLS  &kp LCUR  &kp RCUR  &kp PIPE
                              &trans             &trans       &trans       &trans                       &trans    &trans    &trans    &trans
 			>;
